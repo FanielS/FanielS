@@ -4,7 +4,7 @@ Passionate software enginner with a particular focus on Java & JS software devel
 - 👀 I’m interested in Programming, Reading and Soccer
 - 🌱 Currently learning Machine Learning
 - 💞️ Always looking to collaborate with fellow developers
-- 📫 How to reach me 👉 [Email](fanuelsamsom44@gmail.com) | [LinkedIn](https://www.linkedin.com/in/faniel-samsom/z0)
+- 📫 How to reach me 👉 [Twitter](fanuelsamsom44@gmail.com) | [LinkedIn](https://www.linkedin.com/in/faniel-samsom/z0)
 
 ##
 
