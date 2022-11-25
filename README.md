@@ -6,19 +6,18 @@ Passionate software enginner with a particular focus on Java & JS software devel
 - 💞️ Always looking to collaborate with fellow developers
 - 📫 How to reach me 👉 [Twitter](fanuelsamsom44@gmail.com) | [LinkedIn](https://www.linkedin.com/in/faniel-samsom/z0)
 
-##
-
+## Stats
+<!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FanielS&count_private=true&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanielS&langs_count=10&layout=compact" />
-</a>
+</a>. --->
 
-<!---
+[![trophy](https://github-profile-trophy.vercel.app/?username=FanielS&theme=onedark&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Faniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanielS&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanielS&langs_count=10&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanielS&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- --->
