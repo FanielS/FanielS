@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @FanielS
+# Hi, I'm Faniel 👋🏽
+Passionate software enginner with a particular focus on Java & JS software development.
+
 - 👀 I’m interested in Programming, Reading and Soccer
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Java and Python Projects
-- 📫 How to reach me 👉 fanuelsamsom44@gmail.com
+- 🌱 Currently learning Machine Learning
+- 💞️ Always looking to collaborate with fellow developers
+- 📫 How to reach me 👉 [Email](fanuelsamsom44@gmail.com) | [LinkedIn](https://www.linkedin.com/in/faniel-samsom/z0)
 
 <!---
 FanielS/FanielS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
