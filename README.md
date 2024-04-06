@@ -9,7 +9,7 @@ Passionate software enginner with a particular focus on Java & JS software devel
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=faniel.dev&url=https%3A%2F%2Fxlbd.me)](https://faniel.dev)
 
 - 👀 I’m interested in Programming, Reading and Soccer
-- 🌱 Currently learning Machine Learning
+- 🌱 Currently learning Cloud Engineering
 - 💞️ Always looking to collaborate with fellow developers
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
