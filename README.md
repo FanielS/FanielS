@@ -1,6 +1,6 @@
 
 # Hi, I'm Faniel 👋🏽
-Passionate software enginner with a particular focus on Java & JS software development.
+Passionate software enginner with a particular focus on JS & Python software development.
 
 [![](https://img.shields.io/badge/-@Faniel-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)]([https://twitter.com/xiaoluoboding](https://twitter.com/Nocrom14))
 [![](https://img.shields.io/badge/-@FanielS-%23181717?style=flat-square&logo=github)](https://github.com/FanielS)
